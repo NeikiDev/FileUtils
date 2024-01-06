@@ -1,4 +1,4 @@
-# File Utils
+# NEAST (NeikiAnalytics Toolbox)
 
 Made with Javascript and Electron.
 Reason: Because the website hosting of `analyze.neiki.dev` is too expensive, i decided to make a desktop app for it.
@@ -6,7 +6,6 @@ Local hosted on your machine, no need to upload files to my website.
 
 # Features
 
-- [x] Calculate file Hash
 - [x] Generate file details (size, type, etc)
 - [x] Multi Upload files to Virustotal, Kaspersky Opentip and Triage
 - [x] Multi Upload folders to Virustotal, Kaspersky Opentip and Triage
