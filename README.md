@@ -1,16 +1,14 @@
 # NEAST (NeikiAnalytics Toolbox)
 
 Made with Javascript and Electron.
-Reason: Because the website hosting of `analyze.neiki.dev` is too expensive, i decided to make a desktop app for it.
-Local hosted on your machine, no need to upload files to my website.
+* Full Release will be first for win10 & win11. (Linux compatible later)
+
+# Stored APIKEYs **LOCALLY** and full encrypted!
+[Read more about it here](#)
 
 # Features
 
-- [x] Generate file details (size, type, etc)
-- [x] Multi Upload files to Virustotal, Kaspersky Opentip and Triage
-- [x] Multi Upload folders to Virustotal, Kaspersky Opentip and Triage
-
-more features coming soon...
+Details soon...
 
 # Release Date
 
@@ -32,7 +30,6 @@ MIT License [LICENSE](LICENSE)
 
 - [Electron](https://electronjs.org/)
 - [Electron Builder](https://www.electron.build/)
-- [Electron Forge](https://www.electronforge.io/)
 
 # Contributors
 
